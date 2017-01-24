@@ -3,8 +3,6 @@ layout: post
 title: The 1,2, and 3 are alive with the sound of Data !
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Imagine you are a talented [Insert instrument here] player and you were just acccepted into the coveted Manhattan School of Music. You are excited about the opportunity to develop as an artist, and the network of other talented artists the program will connect you with, but you are concerned about the cost. Fortunately you have a skill that can make you money while living in one of if not the most expensive cities in the United States. You also will have access to the biggest stage in the world...no, not Carnegie Hall...the NYC Subway system!
